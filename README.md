@@ -1,3 +1,3 @@
 # Flutter Button Widgets
 
-[Screenshot](screenshot.png)
+[Screenshot](./assets/images/screenshot.png)
